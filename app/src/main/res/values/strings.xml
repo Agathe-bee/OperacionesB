@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OperacionesB</string>
+    <string name="titulo2">Operaciones básicas</string>
+    <string name="num1">Digite valor 1</string>
+    <string name="num2">Digite valor 2</string>
+    <string name="rbtn1">Suma</string>
+    <string name="rbtn2">Resta</string>
+    <string name="rbtn3">Multiplicación</string>
+    <string name="rbtn4">División</string>
+    <string name="rbtn5">Ejecutar</string>
+    <string name="rbtn6">Salir</string>
+    <string name="res">Resultado</string>
+</resources>
